@@ -117,3 +117,9 @@ int main(void)
 ## Documentation
 
 See [`docs/DOCUMENTATION.md`](docs/DOCUMENTATION.md) for full mathematical proofs, kernel derivation, component value distributions, and comprehensive API documentation.
+
+## THEORETISTS NAMES
+ ____________________________________________________
+| Mentioned Names might be fictional propagated over |
+| network not real theoretists |
+ ------------------------------
